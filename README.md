@@ -1,5 +1,5 @@
 # Email-System-Python-
-An emailing system using python I maid, it only works locally tho
+An emailing system using python I made, it only works locally though
 
 Valid email format requires @mail.com
 
